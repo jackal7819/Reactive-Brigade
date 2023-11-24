@@ -8,7 +8,7 @@ Welcome to our GitHub repository dedicated to raising funds for providing winter
 
 ## How to Contribute
 
-We deeply appreciate your support, and contributing to this noble cause is straightforward. You can make a donation with just one click. Visit our website by following [Reactive](https://github.com/baza-trainee/reactive-brigade).
+We deeply appreciate your support, and contributing to this noble cause is straightforward. You can make a donation with just one click. Visit our website by following [Reactive](https://reactive-brigade.onrender.com/).
 
 ## Sharing and Spreading the Word
 
