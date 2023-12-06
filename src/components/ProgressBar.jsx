@@ -61,7 +61,7 @@ const ProgressBar = () => {
 								return (
 									<li
 										key={id}
-										className='h-4 bg-white sm:h-9 md:h-11 basis-3 sm:basis-4 md:basis-5'
+										className='h-4 bg-white sm:h-9 md:h-11 basis-8'
 										style={{
 											backgroundColor: isBalance
 												? '#2D362E'
